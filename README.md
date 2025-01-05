@@ -22,7 +22,7 @@ CSS3 (Flexbox and Grid for layout)
 
 
 How to Run
-1. 
+1. git clone https://github.com/Akumar8540/Myntra.git
 
 2. Navigate to the project directory:  cd myntra-clone-homepage
  
